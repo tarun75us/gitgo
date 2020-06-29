@@ -1,3 +1,6 @@
 i is hsis the make .txt file created :q!
 chhsa aadded :wq!
+dding new line again
+`1:wQ!
+:wq!
 
